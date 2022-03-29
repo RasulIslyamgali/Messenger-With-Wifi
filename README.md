@@ -1,6 +1,6 @@
 # Messenger-With-Wifi
 
-Simple messenge for recognition with desktops in same wifi network
+Simple messenger for recognition with desktops in same wifi network
 
 
 requirements:
